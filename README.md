@@ -11,7 +11,5 @@ this little AppleScript collection by Ili
 
 originally concieved in 2013 on a PowerMac G4 Cube
 
-website: http://ili.us.to/
-
 github: http:/github.com/ili-codes/
 
