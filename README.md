@@ -4,7 +4,7 @@
 Welcome! If you're wondering, LaunchAJar is the name of my easy-to-use editable app to launch a jarfile.
 
 ### That seems cool. So how do I download this?
-Just go to the project page at https://github.com/ili-codes/applescript-utils/tree/launch-a-jar and click on Download ZIP.
+Just go to the project page at https://github.com/ili-codes/LaunchAJar/releases/ and click on Download
 
 ### Bye!!
 this little app by Ili
