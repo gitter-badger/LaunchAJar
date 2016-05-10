@@ -1,5 +1,7 @@
 # LaunchAJar
 
+[![Join the chat at https://gitter.im/ili-codes/LaunchAJar](https://badges.gitter.im/ili-codes/LaunchAJar.svg)](https://gitter.im/ili-codes/LaunchAJar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Hi!
 Welcome! If you're wondering, LaunchAJar is the name of my easy-to-use editable app to launch a jarfile.
 
